@@ -17,6 +17,7 @@ int main() {
     scanf ("Insira a area da cidade: \n");
     scanf ("Insira a quantidade de pontos turisticos: \n");
     //cada scanf vai puxar uma informação para cada variavel
+    printf ("Cidade: \n", nome_cidade);
     
     // Exibição dos Dados das Cartas:
     // Sugestão: Utilize a função printf para exibir as informações das cartas cadastradas de forma clara e organizada.
